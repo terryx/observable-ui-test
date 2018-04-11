@@ -1,0 +1,27 @@
+{
+  "name": "observable-ui-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terryx/observable-ui-test.git"
+  },
+  "author": "Terry Yuen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terryx/observable-ui-test/issues"
+  },
+  "homepage": "https://github.com/terryx/observable-ui-test#readme",
+  "dependencies": {
+    "ava": "^0.25.0",
+    "puppeteer": "^1.2.0",
+    "rxjs": "^5.5.8"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
